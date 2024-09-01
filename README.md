@@ -9,3 +9,5 @@ File Descriptions:
 . style.css: Contains all the styling for the slider, including layout, buttons, and responsive design.
 
 . script.js: Contains the JavaScript logic to handle the image sliding, auto-slide, swipe functionality, and button interactions.
+
+Check out the live demo https://gege-alii.github.io/Image_Slider/
